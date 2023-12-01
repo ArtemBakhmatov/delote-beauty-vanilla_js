@@ -1,0 +1,11 @@
+{
+	"name": "delote-beauty",
+	"version": "1.0.0",
+	"description": "delote-beauty-vanilla_js (01.12.2023, 15.55)",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "Artem Bakhmatov",
+	"license": "ISC"
+}
